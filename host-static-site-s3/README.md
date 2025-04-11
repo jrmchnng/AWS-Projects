@@ -10,4 +10,4 @@
 - Uncheck **"Block all public access"** to make the website publicly accessible (go to **Permissions**).
 - Edit the bucket's permissions and update the **Bucket Policy** (also under **Permissions**).
 
-**Step 4:** You can now check the website — it should be successfully accessible!
+**Step 4:** You can now check the website and it is now successfully accessible.
